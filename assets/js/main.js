@@ -11,7 +11,7 @@ const showMenu = (toggleId, navId) =>{
 }
 showMenu('nav-toggle','nav-menu')
 
-
+ 
 
 // ==================== Active And Remove Menu ===================== 
 const navLink = document.querySelectorAll('.nav__link')
